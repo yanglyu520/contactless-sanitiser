@@ -8,7 +8,7 @@ Make the hand sanitizer bottle bought from supermarket to be contactless and aut
 
 The project uses an ultrasonic sensor to detect the approach of user's hands to activate the servo motor. This servo will then press the plunger of the handwash bottle thus dispensing the soap.
 
-![alt text](./images/schema)
+![alt text](./images/schema.png)
 
 ## Bill of Materials:
 
@@ -30,7 +30,7 @@ The project uses an ultrasonic sensor to detect the approach of user's hands to 
 
 ### Step1: Watch the video
 
-Please have a close at my video on youtube:
+Please watch my video on youtube:
 https://youtu.be/WFEjHkKJ7jo
 
 ### Step2: Purchase all equipments as listed in the bills of materials
