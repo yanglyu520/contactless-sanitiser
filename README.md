@@ -3,6 +3,9 @@ Having many people pressing the bottle of hand sanitizer by hand, it could put p
 
 Make the hand sanitizer bottle bought from supermarket to be contactless and automatic hand sanitizer that triggers when hands approach the bottle.
 
+## Schema
+The project uses an ultrasonic sensor to detect the approach of user's hands to activate the servo motor. This servo will then press the plunger of the handwash bottle thus dispensing the soap.
+
 ## Bill of Materials:
 
 1.Servo motor: MG995 High Speed Digital 12kg Metal Gear Servo
@@ -20,4 +23,6 @@ Make the hand sanitizer bottle bought from supermarket to be contactless and aut
 7.Hot Glue Gun
 
 ## Instructions
+
+### Step1: Connect the Arduino 
 
