@@ -43,16 +43,16 @@ Let's Understand the schema and logic of different components before we start ma
 
 #### Servo
 
-- Signal servo1 = 9;
-- Vcc to Vin
-- Gnd to Gnd
+1. Signal servo1 = 9;
+2. Vcc to Vin
+3. Gnd to Gnd
 
 #### Sensor
 
-- Trigger to D10
-- Echo to D11
-- Vcc to Vcc
-- Gnd to Gnd
+1. Trigger to D10
+2. Echo to D11
+3. Vcc to Vcc
+4. Gnd to Gnd
 
 If you have trouble, please refer to the schema illustration above.
 
